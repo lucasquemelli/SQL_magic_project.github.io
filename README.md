@@ -105,9 +105,13 @@ Finally, the project with SQL magic:
 ![image](https://user-images.githubusercontent.com/81119854/126714927-9d009ca2-41c4-4b7b-98db-d4ed7ac36889.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/126714962-85e0d16d-5aea-4946-8992-d44626998f01.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/126714997-7a5ce924-fda3-4018-9bde-7e3235f87dcc.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/126715030-e25bdf1b-c10f-4cca-8553-ac615f95045e.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/126715055-281a5019-94d2-4559-acaf-02a752ab6c0a.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/126715087-cfa355b7-9258-405d-8ad8-3ae0814fa890.png)
 
 
