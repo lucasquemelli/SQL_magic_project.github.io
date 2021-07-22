@@ -96,6 +96,22 @@ Finally, the project with SQL magic:
 ![image](https://user-images.githubusercontent.com/81119854/126714726-0a3796c7-44cd-4c57-930d-5ee5d9a0d288.png)
 ![image](https://user-images.githubusercontent.com/81119854/126714765-0746e788-bcdd-490a-9b19-188939f5e002.png)
 
+![image](https://user-images.githubusercontent.com/81119854/126714848-2a1334b5-39f9-4985-94f8-2189322c9a09.png)
+
+# Problem 6
+
+![image](https://user-images.githubusercontent.com/81119854/126714905-31f32126-d771-4fc2-8876-b9bdd893c684.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126714927-9d009ca2-41c4-4b7b-98db-d4ed7ac36889.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126714962-85e0d16d-5aea-4946-8992-d44626998f01.png)
+![image](https://user-images.githubusercontent.com/81119854/126714997-7a5ce924-fda3-4018-9bde-7e3235f87dcc.png)
+![image](https://user-images.githubusercontent.com/81119854/126715030-e25bdf1b-c10f-4cca-8553-ac615f95045e.png)
+![image](https://user-images.githubusercontent.com/81119854/126715055-281a5019-94d2-4559-acaf-02a752ab6c0a.png)
+![image](https://user-images.githubusercontent.com/81119854/126715087-cfa355b7-9258-405d-8ad8-3ae0814fa890.png)
+
+
+
 
 
 
