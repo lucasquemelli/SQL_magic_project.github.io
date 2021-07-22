@@ -91,6 +91,10 @@ Finally, the project with SQL magic:
 ![image](https://user-images.githubusercontent.com/81119854/126714539-1c285c7b-94c3-4363-b37e-dc613fde556a.png)
 ![image](https://user-images.githubusercontent.com/81119854/126714564-14ce53ae-2153-4516-b313-6fd212f182bc.png)
 
+# Problem 5
+
+![image](https://user-images.githubusercontent.com/81119854/126714726-0a3796c7-44cd-4c57-930d-5ee5d9a0d288.png)
+![image](https://user-images.githubusercontent.com/81119854/126714765-0746e788-bcdd-490a-9b19-188939f5e002.png)
 
 
 
