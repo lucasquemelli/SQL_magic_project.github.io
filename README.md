@@ -123,7 +123,19 @@ Finally, the project with SQL magic:
 
 ![image](https://user-images.githubusercontent.com/81119854/126715351-993632c7-99ae-479e-be0c-d1a7392d39e1.png)
 
+# Problem 8
 
+![image](https://user-images.githubusercontent.com/81119854/126715436-3fa6eb2a-813e-43f9-be5e-472d037d3140.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126715467-2f4f7059-656e-4416-abc5-eaccb3f72d4b.png)
+![image](https://user-images.githubusercontent.com/81119854/126715495-3b0819dc-65b8-4c95-aba4-481cc489badc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126715528-286def97-d103-4f5b-a897-c4de69460603.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126715567-db86210b-fa65-4544-a735-0c3193e18445.png)
+![image](https://user-images.githubusercontent.com/81119854/126715600-cea33ed1-fd00-4c4d-94ea-e300cf2594dc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126715619-9924aac6-8935-4151-a527-0bb5ba1cff88.png)
 
 
 
